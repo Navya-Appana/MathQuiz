@@ -1,5 +1,5 @@
 # MathQuiz
 Android Project
-programming Language: Java
-Atributes: Constrain Layout,Progress Bar,Timer,Custom Java class
+programming Language: Java. and  
+Attributes: Constrain Layout,Progress Bar,Timer,Custom Java class
 
